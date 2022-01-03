@@ -1,0 +1,8 @@
+Etapas do curso 
+
+. Sha 1 : É uma forma de encriptação, gerando um conjunto de 40 dígitos
+
+.  Chave SSH : é uma forma de estabelecer uma conexão segura e encriptada entre duas maquinas, no caso , a gente vai se conectar no servidor do github e a gente vai configurar uma nova maquina local .          - chave pública / - chave privada  
+
+ 1° :  Para gerar uma nova chave - ssh-keygen -T ed25519 -c email.com 
+

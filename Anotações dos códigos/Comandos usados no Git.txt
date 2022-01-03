@@ -1,0 +1,43 @@
+# Comandos :computer:
+
+
+
+- dir : Mostrar pastas no (Cmd)
+
+- cd / C : Ir para o diretório C 
+
+- cd / Windows :  Ir para o diretório windows
+
+- cd .. : voltar para diretório padrão 
+
+- cls ou clear : limpar terminal 
+
+- mkdir livro de receitas :  criar pasta
+
+- ls -a : mostrar listas de arquivos ocultos 
+
+- mkdir workspace : Criar pasta
+
+- dell workspace : deletar arquivos 
+
+- rmdir workspace /s /q : apagar diretorio
+
+- echo Hello : mostrar mensagem na tela
+
+- echo hello > hello.txt : extensão para salvar em texto
+
+- git init : iniciar o versionamento do código
+
+- iniciando o git dando os primeiros passos : (user name / Email )                                                           git config --global user.email "email@...com" / git config --global user.nickname ""
+
+- git config --list : Obter a lista de leituras
+
+- git config -- global -- unset user.nickname ou user.email : para apagar informações
+
+- git add . / gitt add -A : 1° passo para o git entender que tem modificações em uma pasta que você criou
+
+- git commit -m "inclusão das anotações do curso dio" : 2 ° passo para subir para nosso repositório
+
+- git push origin main : 3° passo para enviar para nuvem e atribuir as modificações
+
+  
